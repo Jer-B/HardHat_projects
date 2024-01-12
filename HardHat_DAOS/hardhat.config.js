@@ -20,7 +20,7 @@ const SEPOLIA_RPC_URL =
     process.env.alchemy_RPC_sepolia || "https://eth-goerli.alchemyapi.io/v2/your-api-key"
 const PRIVATE_KEY =
     process.env.PRIVATE_KEY_TESTNET ||
-    "0x11ee3108a03081fe260ecdc106554d09d9d1209bcafd46942b10e02943effc4a"
+    "0x222"
 const ETHERSCAN_API_KEY = process.env.ETHERSCAN_API_KEY || ""
 
 module.exports = {

@@ -10,7 +10,7 @@ require("dotenv").config()
 const alchemy_RPC = process.env.alchemy_RPC || "https://eth-mainnet.alchemyapi.io/v2/your-api-key"
 const wallet =
     process.env.PRIVATE_KEY_TESTNET ||
-    "0x11ee3108a03081fe260ecdc106554d09d9d1209bcafd46942b10e02943effc4a"
+    "0x22"
 const ETHERSCAN_API = process.env.ETHERSCAN_KEY || "key"
 const CMC_KEY = process.env.CMC_KEY || "key"
 const ALCHEMY_FORK_URL = process.env.ALCHEMY_FORK || "key"

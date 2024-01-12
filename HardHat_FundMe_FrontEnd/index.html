@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>FundMe Dapp</title>
+    </head>
+    <body>
+        <h2>FundMe Dapp test</h2>
+        <!-- V1 before adding ethers -->
+
+        <!-- <button id="connectButton" onclick="connect()">Connect</button>
+        <button id="fund" onclick="fund()">Fund the contract</button> -->
+
+        <!-- V2 after adding ethers -->
+        <button id="connectButton">Connect</button>
+        <button id="balanceButton">GetBalance</button>
+        <!-- input field -->
+        <br />
+        <label for="fund">Eth amount to fund</label>
+        <input id="ethAmount" placeholder="0.1" />
+        <button id="fundButton">Fund the contract</button>
+
+        <br />
+        <button id="withdrawButton">Withdraw Eth of the contract</button>
+        <!-- script -->
+        <script src="./index.js" type="module"></script>
+    </body>
+</html>
