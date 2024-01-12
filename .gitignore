@@ -13,7 +13,6 @@ cache
 coverage
 .env
 .*
-README.md
 coverage.json
 
 .prettierignore
