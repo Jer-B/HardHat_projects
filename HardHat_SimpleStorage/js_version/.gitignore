@@ -13,3 +13,7 @@ memo.txt
 # Hardhat files
 cache
 artifacts
+
+.prettierignore
+.prettierrc
+.gitignore
