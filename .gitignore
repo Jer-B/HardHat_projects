@@ -1,0 +1,15 @@
+__pycache__
+.env
+.history
+.hypothesis/
+build/
+reports/
+HardHat_Proxy_Upgrades
+HardHat_UltimateNFT
+HardHat_DAOS
+HardHat_DEFI_AAVE
+HardHat_FundMe
+HardHat_FundMe_FrontEnd
+HardHat_Lottery_NextJS
+HardHat_Marketplace
+HardHat_Raffle
